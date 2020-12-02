@@ -22,7 +22,7 @@
       "properties": {
         "name": "codecentric Berlin",
         "address": "c/o WeWork Sony Center – Kemperplatz 1 Building A",
-        "marker-color": "red",
+        "marker-color": "#ff0000",
         "marker-symbol": "commercial"
       },
       "geometry": {
